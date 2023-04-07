@@ -1,0 +1,69 @@
+*{
+	font-family: 'montserrat';
+}
+body{
+    margin:0;
+    font-family: "Montserrat",Arial, Helvetica, sans-serif;
+    background-color: #9d9d9d;
+        height: 100vh;
+        background-color: #000;
+        background-image: url('https://i.pinimg.com/originals/73/f5/4f/73f54ff33a6d8911c387e415b1b77232.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: left;
+}
+.subject-container {
+	background-color: #f7f7f7;
+	background-image: url('https://i.pinimg.com/originals/73/f5/4f/73f54ff33a6d8911c387e415b1b77232.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 100%;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.subject-heading {
+	background-color: rgb(253, 253, 253);
+	padding: 20px;
+	border-radius: 0.5rem;
+	margin-bottom: 20px;
+	border-width: 100%;
+	width: 100%;
+	font-weight: bold;
+	padding :10px 10px;
+	text-align: center;
+}
+
+.subject-box {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	border: 1px solid transparent;
+	width: 100%;
+}
+
+.subject-button {
+	padding: 10px 20px;
+	align-items: left;
+	margin-bottom: 10px;
+	font-size: 1.2rem;
+	color: #333;
+	background-color: white;
+	border: 2px solid #333;
+	border-radius: 0.5rem;
+	transition: all 0.3s ease;
+	flex: 1;
+	min-width: 200px;
+	box-sizing: border-box;
+	box-shadow: #f7f7f7;
+	text-align: center;
+}
+
+.subject-button:hover {
+	background-color: #333;
+	color: white;
+	border: 2px solid #333;
+	cursor: pointer;
+}
