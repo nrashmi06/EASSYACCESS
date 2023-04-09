@@ -17,7 +17,7 @@ body{
 	background-image: url('https://i.pinimg.com/originals/73/f5/4f/73f54ff33a6d8911c387e415b1b77232.jpg');
         background-repeat: no-repeat;
         background-size: cover;
-	background-size: auto;
+	background-attachment: fixed;
 	height: 100%;
 	padding: 20px;
 	display: flex;
