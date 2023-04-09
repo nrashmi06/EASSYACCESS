@@ -14,10 +14,7 @@ body{
 }
 
 .subject-container {
-    background-color: #f7f7f7;
-    background-image: url('https://i.pinimg.com/originals/73/f5/4f/73f54ff33a6d8911c387e415b1b77232.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+   
     height: 100%;
     padding: 20px;
     display: flex;
