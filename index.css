@@ -103,7 +103,7 @@ top:0px;
     transform: rotate(45deg) ;
     top:0px;
 }
-@media(min-width:49emx){
+@media(min-width:999px){
 /*desktkop*/
     .header li{
          float: left;
