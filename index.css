@@ -52,7 +52,7 @@ a{
 }
 .header .menu-icon{
     /*outline:1px solid red;*/
-    padding:28px 20px;
+    padding:20px;
     position:relative;
     float:right;
     cursor: pointer;
