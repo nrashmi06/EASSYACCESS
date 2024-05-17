@@ -32,6 +32,20 @@ This is a simple website project titled "Easy Access" for the first-year interns
 - [Rashmi N](https://github.com/nrashmi06)
 - Rhea D'Mello
 
+## Screenshots
+
+### Home Page
+![Home Page](HOME.png)
+
+### Subjects Page
+![Subjects Page](SUBJECTS.PNG)
+
+### About Page
+![About Page](ABOUT.png)
+
+### Contact Page
+![Contact Page](CONTACT.png)
+
 ## Contact
 
-For any inquiries, please reach out to the contributors via their GitHub profiles.
+For any inquiries, please reach out to the contributors via GitHub profiles.
