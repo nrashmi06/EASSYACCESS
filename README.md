@@ -27,11 +27,6 @@ This is a simple website project titled "Easy Access" for the first-year interns
    - [Contact Us](contact.html)
 
 ## Contributors
-
-- [NNM22AD041](https://github.com/NNM22AD041)
-- [NNM22AD042](https://github.com/NNM22AD042)
-- [NNM22AD043](https://github.com/NNM22AD043)
-- [NNM22AD044](https://github.com/NNM22AD044)
 - [R Ajay Prabhu](https://github.com/RAJAY04)
 - Raksha P
 - [Rashmi N](https://github.com/nrashmi06)
