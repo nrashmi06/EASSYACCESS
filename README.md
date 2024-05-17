@@ -38,7 +38,7 @@ This is a simple website project titled "Easy Access" for the first-year interns
 ![Home Page](HOME.png)
 
 ### Subjects Page
-![Subjects Page](SUBJECTS.PNG)
+![Subjects Page](SUBJECTS.png)
 
 ### About Page
 ![About Page](ABOUT.png)
