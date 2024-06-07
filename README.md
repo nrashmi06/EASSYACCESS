@@ -1,7 +1,8 @@
 # Easy Access
 
 This is a simple website project titled "Easy Access" for the first-year internship project. It includes pages for subjects, about us, and contact us.
-# NOTE: [Link](https://easyaccess2-0.vercel.app/)to the new website
+# NOTE: 
+[Link](https://easyaccess2-0.vercel.app/) to the new website
 ## Pages
 
 1. **Subjects**: This page contains links to various subjects.
